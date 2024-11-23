@@ -1,0 +1,2 @@
+# Imagenes-adaptables
+En este proyecto, se utilizan imágenes adaptables para asegurar que las imágenes se ajusten correctamente a diferentes tamaños de pantalla. Las imágenes adaptables son imágenes que se pueden redimensionar automáticamente para adaptarse  a diferentes tamaños de pantalla, lo que garantiza que las imágenes se muestren de  manera clara y sin distorsionar en diferentes dispositivos.
